@@ -1,1 +1,1 @@
-# Pacman-with-A-star-search
+# Pacman with A-star search
